@@ -1,10 +1,11 @@
 /** LINKED LIST INFORMATION
  * Space Complexity: O(1) as no extra space is required for any operation
+ * 
  * Time Complexity . . .
- *      Insert: O(N) (though this linked list always inserta at the head so it is always O(1))
- *      Delete: O(N)
- *      Access: O(N)
- *      Search: O(N)
+ *      Insert: O(n) (though this linked list always inserta at the head so it is always O(1))
+ *      Delete: O(n)
+ *      Access: O(n)
+ *      Search: O(n)
  * 
  * This is only a forwardly linked list (no back links)
 */
@@ -199,7 +200,7 @@ void readToList(string file, List &L) {
 
         L.addNode(p);
     }
-    
+
     fin.close();
 }
 
