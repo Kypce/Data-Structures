@@ -13,6 +13,6 @@ This folder contains the C++ code for a binary search tree and a text file to be
   - Less than: This will have the new data node be pushed to the left of the current node
   - More than: This will have the new data node be pushed to the right of the current node
 
-### Time and Memory Complexity
+### Time and Space Complexity
 - Searching: O(h) where h is the height of the tree (worst case is O(n)).
-- Memory: O(n)
+- Space: O(n)
