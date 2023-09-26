@@ -1,5 +1,5 @@
 /** BINARY TREE INFORMATION
- * Space Complexity: O(h), where h is the height of the tree
+ * Space Complexity: O(n)
  * 
  * Time Complexity . . .
  *      Insert: O(n)
