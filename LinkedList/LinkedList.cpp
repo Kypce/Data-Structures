@@ -2,7 +2,7 @@
  * Space Complexity: O(1) as no extra space is required for any operation
  * 
  * Time Complexity . . .
- *      Insert: O(n) (though this linked list always inserta at the head so it is always O(1))
+ *      Insert: O(n) (though this linked list always inserts at the head so it is always O(1))
  *      Delete: O(n)
  *      Access: O(n)
  *      Search: O(n)
